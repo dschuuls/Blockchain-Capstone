@@ -1,5 +1,4 @@
 .idea/
-eth-contracts/build/
 eth-contracts/dapp/
 eth-contracts/.secret.json
 node_modules/
