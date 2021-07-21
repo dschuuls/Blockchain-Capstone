@@ -3,5 +3,7 @@ eth-contracts/dapp
 eth-contracts/.secret.json
 node_modules
 zokrates/code/square
-!zokrates/code/square/square.code
 package-lock.json
+
+!zokrates/code/square/square.code
+!zokrates/code/square/proof.json
