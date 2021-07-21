@@ -1,14 +1,18 @@
 # Udacity Blockchain Capstone
+This project is part of the Udacity Blockchain Developer Nanodegree program. It showcases a decentralized housing product, a.k.a. Real Estate Marketplace on OpenSea.
 
-The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
+### Installation
+To install all dependencies run this command:
 
-# Project Resources
+`npm install`
 
-* [Remix - Solidity IDE](https://remix.ethereum.org/)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Truffle Framework](https://truffleframework.com/)
-* [Ganache - One Click Blockchain](https://truffleframework.com/ganache)
-* [Open Zeppelin ](https://openzeppelin.org/)
-* [Interactive zero knowledge 3-colorability demonstration](http://web.mit.edu/~ezyang/Public/graph/svg.html)
-* [Docker](https://docs.docker.com/install/)
-* [ZoKrates](https://github.com/Zokrates/ZoKrates)
+### Running tests
+Run this command inside the eth-contracts folder to run the tests:
+
+`truffle test`
+
+### SolnSquareVerifier on Rinkeby
+Contract address:    0xC4Dc69C5f09b2501Ef083Eb617344ca2556DB057
+
+### Marketplace on OpenSea
+https://testnets.opensea.io/collection/mylittlehousetoken

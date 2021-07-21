@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -15,6 +14,8 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.2.0",
+    "@truffle/contract": "^4.3.25",
+    "@truffle/hdwallet-provider": "^1.4.1",
     "solc": "^0.8.6",
     "solc-js": "^1.0.1"
   }

@@ -1,3 +1,8 @@
 .idea/
+eth-contracts/build/
+eth-contracts/dapp/
+eth-contracts/.secret.json
 node_modules/
+zokrates/code/square/
+!zokrates/code/square/square.code
 package-lock.json
